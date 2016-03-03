@@ -8,7 +8,7 @@
 #
 # g(w) = log(1 + exp(w^2))
 #
-# This file pairs with chapter 2 of the textbook "Machine Learning Refined" by Cambridge University Press
+# This file pairs with chapter 2 of the textbook "Machine Learning Refined" published by Cambridge University Press
 
 from numpy import *
 from matplotlib.pyplot import *
