@@ -1,6 +1,6 @@
-function convex_hess_surrogate()
-% convex_hess_surrogate.m is a toy wrapper to illustrate the path
-% taken by Hessian descent (or Newton's method).  The steps are evaluated 
+function convex_newt_surrogate()
+% convex_newt_surrogate.m is a toy wrapper to illustrate the path
+% taken by Newton's method.  The steps are evaluated 
 % at the objective, and then plotted.  For the first 5 iterations the
 % quadratic surrogate used to transition from point to point is also plotted.
 % The plotted points on the objective turn from green to red as the 
@@ -8,6 +8,8 @@ function convex_hess_surrogate()
 % The (convex) function here is
 %
 % f(x) = log(1 + exp(x^2))
+%
+% This file pairs with chapter 2 of the textbook "Machine Learning Refined" by Cambridge University Press
 
 %%% create function, choose initial point, to perform hessian descent on %%%
 range = 1.1;    % symmetric range over which to plot the function
@@ -15,14 +17,14 @@ range = 1.1;    % symmetric range over which to plot the function
 x0 = choose_starter(a,b,range);
 disp(['You picked starting point x0 = ',num2str(x0)])
 
-%%% perform hessian descent %%%
-[x,in,out] = hessian_descent(x0);
+%%% perform newton's method %%%
+[x,in,out] = newtons_method(x0);
 
 %%% plot function with hessian descent objective evaluations %%%
 plot_it_all(in,out,range)
 
-% performs hessian descent
-function [x,in,out] = hessian_descent(x)
+% performs newton's method
+function [x,in,out] = newtons_method(x)
 
     % initializations
     grad_stop = 10^-3;
