@@ -6,7 +6,7 @@ Current code demos include:
 
 ## Chapter 2 demos on gradient descent and Newton's method
 
-A video tutorial illustrating how gradient descent works via use of the demo code (convex_grad_surrogate and nonconvex_grad_surrogate) - these illustrate the basic concepts underlying gradient descent applied to minimizing both convex and nonconvex functions.  Some principles from the chapter are briefly described before jumping into the code.
+Below is a video tutorial illustrating how gradient descent works via use of the demo code (convex_grad_surrogate and nonconvex_grad_surrogate, which you may find here) - these illustrate the basic concepts underlying gradient descent applied to minimizing both convex and nonconvex functions. Some principles from the chapter are briefly described before jumping into the code.
 
 [![Demo Doccou alpha](https://j.gifs.com/o2AJjA.gif)](https://youtu.be/yy1otucCYVM)
 
