@@ -1,5 +1,5 @@
 # mlrefined-Chap2
-Code examples from chapter 2 - on the fundamentals of numerical optimization - from my textbook "Machine Learning Refined" (Cambridge University Press).  You can download this chapter by visiting www.mlrefined.com
+Python and MATLAB code examples from chapter 2 - on the fundamentals of numerical optimization including gradient descent and Newton's method - from my textbook "Machine Learning Refined" (Cambridge University Press).  You can download this chapter by visiting www.mlrefined.com
 
 ## Demos
 
