@@ -3,6 +3,5 @@ Code examples from chapter 2 - on the fundamentals of numerical optimization - f
 
 ## Demo
 
-<iframe src="http://gifs.com/embed/o2AJjA" frameborder="0" scrolling="no" width='480' height='270' style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe>
+[![Demo Doccou alpha](https://j.gifs.com/o2AJjA.gif)](https://youtu.be/yy1otucCYVM)
 
-https://youtu.be/yy1otucCYVM
