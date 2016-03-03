@@ -3,7 +3,7 @@ Code examples from chapter 2 - on the fundamentals of numerical optimization - f
 
 ## Demos
 
-Below is a video tutorial for the demo code nonconvex_grad_surrogate.py - this illustrates the basic ideas behind gradient descent applied to minimizing both convex and nonconvex functions.
+A video tutorial illustrating the use of the demo code - these illustrates the basic concepts underlying gradient descent applied to minimizing both convex and nonconvex functions.  Some principles from the chapter are briefly described before jumping into the code.
 
 [![Demo Doccou alpha](https://j.gifs.com/o2AJjA.gif)](https://youtu.be/yy1otucCYVM)
 
