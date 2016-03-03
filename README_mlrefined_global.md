@@ -4,7 +4,7 @@ In this repository you can find demo code written in Python and MATLAB for Chapt
 
 Current code demos include:
 
-## Chapter 2 demos
+## Chapter 2 demos on gradient descent and Newton's method
 
 A video tutorial illustrating how gradient descent works via use of the demo code (convex_grad_surrogate and nonconvex_grad_surrogate) - these illustrate the basic concepts underlying gradient descent applied to minimizing both convex and nonconvex functions.  Some principles from the chapter are briefly described before jumping into the code.
 
