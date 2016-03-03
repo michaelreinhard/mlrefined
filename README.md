@@ -3,7 +3,10 @@ Code examples from chapter 2 - on the fundamentals of numerical optimization - f
 
 ## Demos
 
-A video tutorial illustrating the use of the demo code - these illustrates the basic concepts underlying gradient descent applied to minimizing both convex and nonconvex functions.  Some principles from the chapter are briefly described before jumping into the code.
+A video tutorial illustrating how gradient descent works via use of the demo code (convex_grad_surrogate.py and nonconvex_grad_surrogate.py) - these illustrate the basic concepts underlying gradient descent applied to minimizing both convex and nonconvex functions.  Some principles from the chapter are briefly described before jumping into the code.
 
 [![Demo Doccou alpha](https://j.gifs.com/o2AJjA.gif)](https://youtu.be/yy1otucCYVM)
 
+A video tutorial illustrating how Newton's method works via use of the demo code (convex_newton_surrogate.py and nonconvex_newton_surrogate.py) - these illustrate the basic concepts underlying Newton's method applied to minimizing both convex and nonconvex functions.  Some principles from the chapter are briefly described before jumping into the code.
+
+[![Demo Doccou alpha](https://j.gifs.com/zpql9q.gif)](https://www.youtube.com/watch?v=LLc-N3jgj7U)
