@@ -1,6 +1,6 @@
 # Machine Learning Refined code
 
-In this repository you can find demo code written in Python and MATLAB for Chapters 2 - 8 from the textbook Machine Learning Refined.
+In this repository you can find demo code written in Python and MATLAB for Chapters 2 - 8 from the textbook Machine Learning Refined.  You can download this chapter by visiting www.mlrefined.com
 
 Current code demos include:
 
