@@ -10,7 +10,7 @@ function nonconvex_newt_surrogate()
 %
 % f(x) = exp(x)*cos(2pi*sin(pi*x))
 %
-% This file pairs with chapter 2 of the textbook "Machine Learning Refined" by Cambridge University Press
+% This file pairs with chapter 2 of the textbook "Machine Learning Refined" published by Cambridge University Press
 
 
 %%% create function, choose initial point, to perform hessian descent on %%%
