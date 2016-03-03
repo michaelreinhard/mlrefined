@@ -10,7 +10,7 @@ Below is a video tutorial illustrating how gradient descent works via use of the
 
 [![Demo Doccou alpha](https://j.gifs.com/o2AJjA.gif)](https://youtu.be/yy1otucCYVM)
 
-A video tutorial illustrating how Newton's method works via use of the demo code (convex_newton_surrogate and nonconvex_newton_surrogate) - these illustrate the basic concepts underlying Newton's method applied to minimizing both convex and nonconvex functions.  Some principles from the chapter are briefly described before jumping into the code.
+Below is a video tutorial illustrating how Newton's method works via use of the demo code (convex_newton_surrogate and nonconvex_newton_surrogate, which you may find here) - these illustrate the basic concepts underlying Newton's method applied to minimizing both convex and nonconvex functions. Some principles from the chapter are briefly described before jumping into the code.
 
 [![Demo Doccou alpha](https://j.gifs.com/zpql9q.gif)](https://www.youtube.com/watch?v=LLc-N3jgj7U)
 
