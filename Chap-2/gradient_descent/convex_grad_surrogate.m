@@ -1,4 +1,3 @@
-function convex_grad_surrogate()
 % convex_grad_surrogate.m is a toy wrapper to illustrate the path
 % taken by gradient descent.  The steps are evaluated 
 % at the objective, and then plotted.  For the first 5 iterations the
@@ -9,6 +8,9 @@ function convex_grad_surrogate()
 % The (convex) function here is
 %
 % f(w) = log(1 + exp(w^2))
+% This file pairs with chapter 2 of the textbook "Machine Learning Refined" published by Cambridge University Press
+
+function convex_grad_surrogate()
 
 %%% dials to play with %%%
 alpha = .1;  % step length/learning rate (for gradient descent)
