@@ -1,4 +1,3 @@
-function nonconvex_grad_surrogate()
 % nonconvex_grad_surrogate.m is a toy wrapper to illustrate the path
 % taken by gradient descent.  The steps are evaluated 
 % at the objective, and then plotted.  For the first 5 iterations the
@@ -9,6 +8,10 @@ function nonconvex_grad_surrogate()
 % The (non convex) function here is
 %
 % f(w) = exp(w)*cos(2pi*sin(pi*w))
+%
+% This file pairs with chapter 2 of the textbook "Machine Learning Refined" published by Cambridge University Press
+
+function nonconvex_grad_surrogate()
 
 % dials for toy
 alpha = 10^-3;     % step length/learning rate (for gradient descent)
