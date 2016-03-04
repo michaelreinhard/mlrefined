@@ -7,6 +7,10 @@
 # The (convex) function here is
 #
 # g(w) = log(1 + exp(w^2))
+#
+# This file pairs with chapter 2 of the textbook "Machine Learning Refined" published by Cambridge University Press, 
+# free for download at www.mlrefined.com
+
 
 import numpy as np
 import matplotlib.pyplot as plt
