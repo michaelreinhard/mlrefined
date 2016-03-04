@@ -9,7 +9,9 @@
 %
 % f(w) = exp(w)*cos(2pi*sin(pi*w))
 %
-% This file pairs with chapter 2 of the textbook "Machine Learning Refined" published by Cambridge University Press
+% This file pairs with chapter 2 of the textbook "Machine Learning Refined" published by Cambridge University Press, 
+% free for download at www.mlrefined.com
+
 
 function nonconvex_grad_surrogate()
 
