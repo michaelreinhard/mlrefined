@@ -1,3 +1,6 @@
+
+% This file pairs with chapter 3 of the textbook "Machine Learning Refined" published by Cambridge University Press.  
+
 function l2reg_logistic()
 
 % load data, plot data and surfaces
