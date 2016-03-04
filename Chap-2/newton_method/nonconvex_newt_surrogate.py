@@ -7,6 +7,9 @@
 # The (nonconvex) function here is
 #
 #g(w) = exp(w)*cos(2pi*sin(pi*w))
+#
+# This file pairs with chapter 2 of the textbook "Machine Learning Refined" published by Cambridge University Press, 
+# free for download at www.mlrefined.com
 
 import numpy as np
 import matplotlib.pyplot as plt
