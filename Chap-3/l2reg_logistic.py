@@ -1,3 +1,6 @@
+
+# This file pairs with chapter 3 of the textbook "Machine Learning Refined" published by Cambridge University Press.  
+
 from mpl_toolkits.mplot3d import Axes3D
 import numpy as np
 import matplotlib.pyplot as plt
