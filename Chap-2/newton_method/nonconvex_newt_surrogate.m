@@ -1,4 +1,3 @@
-function nonconvex_newt_surrogate()
 % nonconvex_newt_surrogate is a toy wrapper to illustrate the path
 % taken by Hessian descent (or Newton's method).  The steps are evaluated 
 % at the objective, and then plotted.  For the first 5 iterations the
@@ -10,8 +9,10 @@ function nonconvex_newt_surrogate()
 %
 % f(x) = exp(x)*cos(2pi*sin(pi*x))
 %
-% This file pairs with chapter 2 of the textbook "Machine Learning Refined" published by Cambridge University Press
+% This file pairs with chapter 2 of the textbook "Machine Learning Refined" published by Cambridge University Press, 
+% free for download at www.mlrefined.com
 
+function nonconvex_newt_surrogate()
 
 %%% create function, choose initial point, to perform hessian descent on %%%
 range = 1.1;    % symmetric range over which to plot the function
