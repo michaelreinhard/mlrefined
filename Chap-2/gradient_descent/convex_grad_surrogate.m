@@ -8,7 +8,9 @@
 % The (convex) function here is
 %
 % f(w) = log(1 + exp(w^2))
-% This file pairs with chapter 2 of the textbook "Machine Learning Refined" published by Cambridge University Press
+%
+% This file pairs with chapter 2 of the textbook "Machine Learning Refined" published by Cambridge University Press, 
+% free for download at www.mlrefined.com
 
 function convex_grad_surrogate()
 
