@@ -20,3 +20,10 @@ Below is a video tutorial illustrating how L2 regularization convexifies nonconv
 
 [![Demo Doccou alpha](https://j.gifs.com/AD8OG1.gif)](https://youtu.be/ON_7wm-Qe6c)
 
+## Chapter 4 demos on two class logistic regression and support vector machines, as well as multi-class one-versus-all and multiclass softmax / logistic regression
+
+Two class classification with logistic regression:
+
+![alt tag](https://raw.githubusercontent.com/jermwatt/mlrefined/master/Chap-4/2class-classification/logistic_example.png)
+
+
