@@ -9,7 +9,8 @@ function convex_newt_surrogate()
 %
 % f(x) = log(1 + exp(x^2))
 %
-% This file pairs with chapter 2 of the textbook "Machine Learning Refined" published by Cambridge University Press
+% This file pairs with chapter 2 of the textbook "Machine Learning Refined" published by Cambridge University Press, 
+% free for download at www.mlrefined.com
 
 %%% create function, choose initial point, to perform hessian descent on %%%
 range = 1.1;    % symmetric range over which to plot the function
