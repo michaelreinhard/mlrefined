@@ -22,7 +22,7 @@ Below is a video tutorial illustrating how L2 regularization convexifies nonconv
 
 Simple linear regression on an important dataset
 
-![alt tag](https://raw.githubusercontent.com/jermwatt/mlrefined/master/Chap-3/student_debt_plot.png)
+![alt tag](https://raw.githubusercontent.com/jermwatt/mlrefined/master/Chap-3/student_debt_plot_small.png)
 
 
 ## Chapter 4 demos on two class logistic regression and support vector machines, as well as multi-class one-versus-all and multiclass softmax / logistic regression
