@@ -8,4 +8,4 @@ Below is a video tutorial illustrating how L2 regularization convexifies nonconv
 
 Simple linear regression on an important dataset
 
-![alt tag](https://raw.githubusercontent.com/jermwatt/mlrefined/master/Chap-3/student_debt_plot.png)
+![alt tag](https://raw.githubusercontent.com/jermwatt/mlrefined/master/Chap-3/student_debt_plot_small.png)
