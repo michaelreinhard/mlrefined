@@ -1,5 +1,7 @@
-### playing around with syntax for matrix operations
-# import all functions directly from numpy, scipy, and matplotlib
+
+# This file pairs with chapter 3 of the textbook "Machine Learning Refined" published by Cambridge University Press, 
+# free for download at www.mlrefined.com
+
 import numpy as np
 import matplotlib.pylab as plt
 
