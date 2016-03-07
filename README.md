@@ -28,5 +28,5 @@ Two class classification with logistic regression:
 
 Multiclass classification with One-versus-All classification
 
-![alt tag](https://raw.githubusercontent.com/jermwatt/mlrefined/master/Chap-4/2class-classification/logistic_example.png)
+![alt tag](https://raw.githubusercontent.com/jermwatt/mlrefined/master/Chap-4/multi-class/multiclass.gif)
 
