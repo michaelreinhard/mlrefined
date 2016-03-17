@@ -83,7 +83,7 @@ def calculate_obj(X,y,W):
         cost+=p_temp
     return cost
 
-# plot data, separators, and fused fule
+# plot data, separators, and fused rule
 def plot_all(x,y,W):
     # initialize figure, plot data, and dress up panels with axes labels etc.,
     num_classes = np.size(np.unique(y))
