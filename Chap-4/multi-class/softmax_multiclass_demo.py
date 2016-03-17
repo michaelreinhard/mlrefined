@@ -1,3 +1,6 @@
+# This file pairs with chapter 4 of the textbook "Machine Learning Refined" published by Cambridge University Press, 
+# free for download at www.mlrefined.com
+
 import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
