@@ -1,4 +1,4 @@
-    function softmax_multiclass_demo()
+function softmax_multiclass_demo()
 clear all
 
 % load data
